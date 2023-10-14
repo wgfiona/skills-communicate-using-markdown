@@ -12,4 +12,5 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 - [ ] Friend is important
 - [ ] Relationship is important
 - [x] BK is important
+-[ ]BK is not important - [ED is important 
 - [ ] Edwin is important
